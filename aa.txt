@@ -1,7 +1,7 @@
 -- HWID Whitelist Made By PG
 
 local HWID = game:GetService("RbxAnalyticsService"):GetClientId();
-local WhitelistedHWIDs = {"","",""}
+local WhitelistedHWIDs = {"B54CA4F1-66E2-4761-A30D-E1B78C134E8A","",""}
 local qNVAKkuwxNpqruLjSRHg = false
 
 function CheckHWID(hwidval)
