@@ -12,7 +12,7 @@ local function esp(p,cr)
     text.Center = true
     text.Outline = true 
     text.Font = 2
-    text.Color = Color3.fromRGB(color)
+    text.Color = Color3.fromRGB(255,255,255)
     text.Size = 13
 
     local c1
